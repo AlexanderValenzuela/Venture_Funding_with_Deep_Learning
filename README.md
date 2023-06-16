@@ -19,7 +19,7 @@ As a risk management associate at Alphabet Soup, a venture capital firm, the pri
 ```
 # Run Jupyter Notebook in Google Colab 
 ```
-[GC_venture_funding_with_deep_learning.ipynb](https://colab.research.google.com/drive/1UqMnxTWLSIuumJJ2ry5F9h6Wtor4M_eU)
+[GC_venture_funding_with_deep_learning.ipynb](https://colab.research.google.com/github/AlexanderValenzuela/Venture_Funding_with_Deep_Learning/blob/main/GC_venture_funding_with_deep_learning.ipynb)
 ```
 
 # Import the required libraries and dependencies
